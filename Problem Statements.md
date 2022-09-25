@@ -3,7 +3,7 @@
 * This assignment is mandatory for everyone
 * There will only be a single attempt for each exam and no deadline extension in case of assignments
 * Any case of unfair means or plagiarism would lead to debarring in final placements without any further consideration.
-* The images of the applications are only for reference, the app design can be different but all the components mentioned in the image of the apps should be present.
+* The images of the applications are only for reference, the app design can be different but all the components mentioned in the image of the apps should be given present.
 
 ## Problem 1
 Create a Parallax website. A parallax website includes fixed images in the background that 
